@@ -1,0 +1,45 @@
+{
+  "ProjectName": "tab_iosTooling",
+  "ProjectGuid": "e2afe731-e52e-4c8b-8633-98d31aaf7a39",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.tabiosTooling",
+  "DisplayName": "tab_iosTooling",
+  "Author": "",
+  "Description": "tab_iosTooling",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5d324235-b15f-4f9d-ac19-1137cb31b862}",
+  "WP8ProductID": "{b10fbd12-85c9-4bd0-84ca-1cc8fec73f3e}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.tabiosTooling",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
